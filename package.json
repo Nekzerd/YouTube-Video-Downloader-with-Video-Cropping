@@ -1,0 +1,27 @@
+{
+  "name": "project-quasar",
+  "version": "1.0.0",
+  "main": "quasar.js",
+  "type": "module",
+  "scripts": {
+    "start": "node quasar.cjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "execa": "^8.0.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "googleapis": "^128.0.0",
+    "opensubtitles-api": "^5.1.2",
+    "xml2js": "^0.6.2",
+    "youtube-dl-exec": "^2.4.17",
+    "yt-dlp": "^0.0.6",
+    "ytdl-core": "^4.11.5"
+  }
+}
